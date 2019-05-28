@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace GitTestApp
 {
     class Program
@@ -14,12 +13,10 @@ namespace GitTestApp
 
         private void TestFunction()
         {
-
         }
 
         private void TestFunction2()
         {
-
         }
     }
 }
