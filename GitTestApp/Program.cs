@@ -8,7 +8,7 @@ namespace GitTestApp
         {
             Console.WriteLine("Hello World!");
             Program p = new Program();
-            p.TestFunction();
+            p.TestFunction2();
         }
 
         private void TestFunction()
