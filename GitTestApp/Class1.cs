@@ -6,5 +6,8 @@ namespace GitTestApp
 {
     class Class1
     {
+
+        ///
+        ////
     }
 }
