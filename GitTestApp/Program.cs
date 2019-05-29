@@ -12,15 +12,10 @@ namespace GitTestApp
 
         private void TestFunction()
         {
-            ////
         }
 
         private void TestFunction2()
         {
-            ////
-            ///
-            /////
-            /////
         }
     }
 }
