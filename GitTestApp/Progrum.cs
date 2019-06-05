@@ -1,12 +1,12 @@
 ﻿using System;
 namespace GitTestApp
 {
-    class Program
+    class Progrum
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Program p = new Program();
+            Progrum p = new Progrum();
             p.TestFunction();
         }
 
