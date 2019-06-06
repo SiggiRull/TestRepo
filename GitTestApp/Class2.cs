@@ -4,10 +4,7 @@ using System.Text;
 
 namespace GitTestApp
 {
-    class Class1
+    class Class2
     {
-        //extra
-        //feature
-        //dadada
     }
 }
